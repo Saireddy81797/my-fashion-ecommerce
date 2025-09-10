@@ -1,4 +1,4 @@
-Fashion E-Commerce Website
+##Fashion E-Commerce Website
 
 This is a Fashion E-Commerce website built with React, TypeScript, and Vite. It allows users to browse, add products to their cart, and proceed to checkout. The website is designed to simulate an e-commerce store, providing features like product listing, cart management, and a basic checkout page.
 
